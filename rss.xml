@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Immoturkije]]></title>
-        <description><![CDATA[Immoturkije]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Uw vastgoedpartner in de regio Side / Turkije.]]></title>
+        <description><![CDATA[Uw vastgoedpartner in de regio Side / Turkije.]]></description>
+        <link>https://thegrid.ai/immoturkije/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 18:09:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 19:28:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/immoturkije/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5d109a-6293-4d83-b9d1-c430e85b6b4d.JPG">]]></description>
+            <link>https://thegrid.ai/immoturkije/39a4d478-c31e-425e-b4ea-f3d0ac46ccfe/index.html</link>
+            <guid isPermaLink="false">39a4d478-c31e-425e-b4ea-f3d0ac46ccfe</guid>
+            <pubDate>Tue, 19 Jan 2016 19:28:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Periköy  3-gevel villa.</p>]]></description>
-            <link>undefined6f0d46e1-2f58-4dc0-add2-62843f4af320/index.html</link>
+            <link>https://thegrid.ai/immoturkije/6f0d46e1-2f58-4dc0-add2-62843f4af320/index.html</link>
             <guid isPermaLink="false">6f0d46e1-2f58-4dc0-add2-62843f4af320</guid>
             <pubDate>Tue, 19 Jan 2016 18:09:37 GMT</pubDate>
         </item>
