@@ -1,6 +1,6 @@
 name: Immoturkije
 favicon: null
-layout_spectrum: 0.92976
+layout_spectrum: 0.36152
 typography_spectrum: 0.85802
 title: Uw vastgoedpartner in de regio Side / Turkije.
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#002955'
-    - '#178adb'
-    - '#86cfd6'
-    - '#929970'
-    - '#eee7bb'
+    - '#000000'
+    - '#ea8a12'
+    - '#734f1d'
+    - '#ac671f'
+    - '#40301b'
   brandStrength: 0.375
   lightness: 0.6875
   saturation: 0.6992555989418179
