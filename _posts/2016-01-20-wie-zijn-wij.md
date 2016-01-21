@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T13:23:15.691Z'
+datePublished: '2016-01-21T13:23:15.793Z'
 dateModified: '2016-01-21T13:23:14.160Z'
 title: Wie zijn wij?
 author: []
