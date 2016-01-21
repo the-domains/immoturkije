@@ -1,27 +1,29 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T14:46:14.545Z'
-dateModified: '2016-01-20T12:31:13.259Z'
+datePublished: '2016-01-21T13:23:15.666Z'
+dateModified: '2016-01-21T13:23:14.160Z'
 title: Wie zijn wij?
 author: []
+sourcePath: _posts/2016-01-20-wie-zijn-wij.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-wie-zijn-wij.md
-published: true
-url: wie-zijn-wij/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/780b0a09-c222-4f6c-820d-3e342db5b2e3.jpg)
+
 Wij zijn een Belgisch-Turks makelaarskantoor gevestigd in de regio Side.
 
 Onze portfolio is dan ook gevuld met eigendommen in deze streek zodat we alles netjes onder controle kunnen houden voor uw tevredenheid.
@@ -35,4 +37,3 @@ De Turkse taal heeft voor ons geen geheimen weer zodat wij alle misverstanden do
 Een heleboel tevreden klanten genieten ten volle van hun (vakantie)huis in de prachtige streek van Side in Turkije.
 
 Contacteer ons gerust: info@suninvestside.com of +90 536 305 99 58 (ook whatsapp)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/780b0a09-c222-4f6c-820d-3e342db5b2e3.jpg)
