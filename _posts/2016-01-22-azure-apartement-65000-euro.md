@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2 slaapkamers, gelijkvloers, Side centrum'
-datePublished: '2016-01-23T17:31:13.406Z'
-dateModified: '2016-01-23T17:31:08.259Z'
+datePublished: '2016-01-23T17:55:22.953Z'
+dateModified: '2016-01-23T17:55:17.155Z'
 title: AZURE apartement 65.000 Euro
 author: []
 sourcePath: _posts/2016-01-22-azure-apartement-65000-euro.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 **Azure gelijkvloers 2 slaapkamerappartement.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d084fd4-e04b-42b9-aa36-b8e28008d796.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d160fceda6454050fc541b4eb0f47998f2852f1.jpg)
 
 2 slaapkamer appartement gelegen in klein gezellig wooncomplex in residentiëel Side, dicht bij strand, winkels en restaurants.
 
