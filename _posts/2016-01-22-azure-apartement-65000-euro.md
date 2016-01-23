@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2 slaapkamers, gelijkvloers, Side centrum'
-datePublished: '2016-01-22T20:51:43.207Z'
-dateModified: '2016-01-22T20:51:20.010Z'
+datePublished: '2016-01-23T17:31:13.406Z'
+dateModified: '2016-01-23T17:31:08.259Z'
 title: AZURE apartement 65.000 Euro
 author: []
+sourcePath: _posts/2016-01-22-azure-apartement-65000-euro.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-azure-apartement-65000-euro.md
-published: true
 url: azure-apartement-65000-euro/index.html
 _type: Article
 
@@ -54,6 +54,6 @@ Wij zijn een Belgisch-Turks makelaarskantoor. Betrouwbaarheid en goede service d
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54546e15-d61f-48b6-bbe9-8ded9b81c076.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/763a91ae-ebc7-474a-8ccf-a5bcd99a1d28.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f54007-ba4d-4663-98d3-cf3465381684.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42527a7a-6e6e-4921-b784-41cc6311e5a5.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06718b0b-efc0-4e6a-aba0-7d33ec5d4dc4.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2adad639-353a-44d6-af77-8115d1505883.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae87e7580d2ccd6cba7ac7a3cf82de7d4dbf0cb1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da27fb86e4a66960bf6cf968d68b95999e320382.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93326052686ccbb294daebf0d91dd5d398f97a01.jpg)
