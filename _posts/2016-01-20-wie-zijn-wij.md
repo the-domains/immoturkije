@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T13:23:15.793Z'
-dateModified: '2016-01-21T13:23:14.160Z'
+datePublished: '2016-01-25T13:47:02.395Z'
+dateModified: '2016-01-25T13:46:57.584Z'
 title: Wie zijn wij?
 author: []
 sourcePath: _posts/2016-01-20-wie-zijn-wij.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: wie-zijn-wij/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/780b0a09-c222-4f6c-820d-3e342db5b2e3.jpg)
