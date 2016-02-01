@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Gelijkvloers 85m²
-datePublished: '2016-02-01T15:24:28.696Z'
-dateModified: '2016-02-01T15:23:24.001Z'
+datePublished: '2016-02-01T16:19:44.723Z'
+dateModified: '2016-02-01T16:19:38.745Z'
 title: Spring II 2 slaapkamer appartement 65.000 Eur.
 author: []
+sourcePath: _posts/2016-02-01-spring-ii-2-slaapkamer-appartement-65000-eur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-spring-ii-2-slaapkamer-appartement-65000-eur.md
-published: true
 url: spring-ii-2-slaapkamer-appartement-65000-eur/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 Gelijkvloers appartement in het prachtig, goed onderhouden park Spring 2 bij Side.
