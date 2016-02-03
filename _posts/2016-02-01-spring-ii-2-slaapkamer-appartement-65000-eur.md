@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gelijkvloers appartement 85m²
-datePublished: '2016-02-03T16:01:53.235Z'
-dateModified: '2016-02-02T14:59:44.370Z'
+datePublished: '2016-02-03T16:05:58.018Z'
+dateModified: '2016-02-03T16:05:53.247Z'
 title: Spring II  2 slaapkamers 65.000 Euro.
 author: []
 sourcePath: _posts/2016-02-01-spring-ii-2-slaapkamer-appartement-65000-eur.md
