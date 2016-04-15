@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-25T13:47:02.395Z'
-dateModified: '2016-01-25T13:46:57.584Z'
-title: Wie zijn wij?
+description: Wij zijn een Belgisch-Turks makelaarskantoor gevestigd in de regio Side.
+datePublished: '2016-04-15T20:32:13.502Z'
+dateModified: '2016-04-15T20:32:12.542Z'
+title: Wie zijn wij?  Contact.
 author: []
 sourcePath: _posts/2016-01-20-wie-zijn-wij.md
 published: true
