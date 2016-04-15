@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2 slaapkamers, gelijkvloers, Side centrum'
-datePublished: '2016-02-03T16:01:44.168Z'
-dateModified: '2016-02-02T14:58:39.781Z'
+datePublished: '2016-04-15T20:32:47.657Z'
+dateModified: '2016-02-03T16:05:12.359Z'
 title: AZURE apartement 65.000 Euro
 author: []
 sourcePath: _posts/2016-01-22-azure-apartement-65000-euro.md
