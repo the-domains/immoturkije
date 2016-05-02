@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Welkom in een 21e eeuws heiligdom welke geïnspireerd is door de lokale geschiedenis en gelegen is in een vooraanstaande wijk. Het innovatieve ontwerp accentueert het leven buiten met royale privé tuinen en grote dakterrassen en verweeft op feilloze wijze de ruimtes binnen en buiten met elkaar.Nympheum, gelegen naast de ongerepte groene zone van Side en het schitterende Ooststrand, is een uniek residentieel project ontworpen met een uitmuntend niveau in architectonische vormgeving.Wanneer u deel wordt van de Nympheum gemeenschap, zult u genieten van een onderscheidende en unieke lifestyle.'
-datePublished: '2016-05-02T17:17:35.961Z'
-dateModified: '2016-05-02T17:17:32.321Z'
+datePublished: '2016-05-02T17:46:56.985Z'
+dateModified: '2016-05-02T17:34:31.232Z'
 title: Minimalistisch ontwerp in een verfijnde setting
 author: []
+sourcePath: _posts/2016-05-02-minimalistisch-ontwerp-in-een-verfijnde-setting.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-minimalistisch-ontwerp-in-een-verfijnde-setting.md
-published: true
 url: minimalistisch-ontwerp-in-een-verfijnde-setting/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/949ce326-a54b-4a12-a6d3-0ebd75640ad0.jpg)
+
 # Nympheum 2 slaapkamers 155.000 Euro
 
 Te koop inclusief smaakvolle kwaliteitsmeubels en toebehoren.
@@ -50,5 +52,6 @@ Appartementen op de begane grond zijn ontworpen met grote verhoogde privé tuin 
 Inbouwkasten met spiegels in de slaapkamers dragen bij aan het gevoel van ruimtelijkheid. Dimbare LED verlichting en indirecte verlichting in de plafonds versterken het luxe gevoel en helpen een bijzondere sfeer in de avonduren te creëren.  
 Ruime kamers met wit gelakte deuren, grote moderne porseleinen vloertegels, ingebouwde garderobekast, zeer grote terrasdeur, natuurstenen keukenblad en vele andere verfijnde details en accessories dragen bij tot de ultieme luxe.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45415fe6-0493-4b7d-b8aa-5ab00c1b2b52.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5a8b2fd-6a0b-4836-906f-f5558ae6068b.jpg)
 
 ## Meer informatie? contacteer ons.
