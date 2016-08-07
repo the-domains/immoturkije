@@ -1,32 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Stijlvol wonen in een zeer gewilde wijk nabij het oude centrum van Side
-datePublished: '2016-05-03T07:54:19.123Z'
-dateModified: '2016-05-03T07:46:25.953Z'
-title: ''
-author: []
+datePublished: '2016-08-07T13:22:28.874Z'
 sourcePath: _posts/2016-04-19-agora-2-slaapkamer-apt-80000-euro.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-07T13:22:27.289Z'
+title: ''
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: 'Agora 2 slaapkamers: Prijs verlaagd. Nu 69.000 Euro !'
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: agora-2-slaapkamer-apt-80000-euro/index.html
 _type: Article
 
 ---
+Agora 2 slaapkamers: Prijs verlaagd. Nu 69.000 Euro !
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83304863-8aa4-49b4-bc6c-6364cf894ab7.jpg)
 
 Stijlvol wonen in een zeer gewilde wijk nabij het oude centrum van Side
 
-AGORA is een luxe residentieel project bestaande uit 99 appartementen in verschillende groottes en wordt gebouwd op een royaal perceel van 11.480 m2\. 
+AGORA is een luxe residentieel project bestaande uit 99 appartementen in verschillende groottes en wordt gebouwd op een royaal perceel van 11.480 m2\.
 
 De architectuur van AGORA vertegenwoordigt een moderne Mediterrane stijl welke versterkt wordt door gebruik van houten elementen op witte muren. Ruime terrassen langs de gehele voorgevels van de appartementen met brede terrasdeuren weerspiegelen de aangename stijl van leven buiten dankzij 300 dagen zon per jaar.
 
