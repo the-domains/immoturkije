@@ -1,25 +1,21 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: '2 slaapkamers, gelijkvloers, Side centrum'
-datePublished: '2016-04-15T20:32:47.657Z'
-dateModified: '2016-02-03T16:05:12.359Z'
-title: AZURE apartement 65.000 Euro
+description: Azure gelijkvloers 2 slaapkamerappartement.
+datePublished: '2016-08-08T18:11:28.787Z'
+dateModified: '2016-08-08T16:44:42.376Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-22-azure-apartement-65000-euro.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-url: azure-apartement-65000-euro/index.html
-_type: Article
+publisher: {}
+via: {}
+starred: false
+_type: Blurb
 
 ---
 **Azure gelijkvloers 2 slaapkamerappartement.**
