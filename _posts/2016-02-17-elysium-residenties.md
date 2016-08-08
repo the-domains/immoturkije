@@ -1,25 +1,33 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: 'luxe woningen in 5 * complex'
-datePublished: '2016-02-17T10:31:47.473Z'
-dateModified: '2016-02-17T10:31:30.848Z'
-title: ELYSIUM RESIDENTIES
+description: >-
+  Elysium, direct gelegen naast ons meest recente en succesvol afgeronde project
+  Inspirit, is ontworpen met een streven naar perfectie. Het project is
+  ingeplant op een enorm stuk grond van 14.400 m2. Waar er enkel 22 %
+  bouwdichtheid wordt gebruikt in plaats van de voorziene 25 %, roept het
+  project een gevoel op van ruimte en openheid. De aangelegde tuinen vloeien
+  naadloos over in de groene natuurlijke omgeving. Elysium omvat 40
+  appartementen en 8 luxe halfopen villa’s, verspreid over 9 zuidgerichte
+  laagbouw blokken. Dit luxe-oord situeert zich in de expansieve omgeving van
+  Ilica. Op een zachtglooiend landschap, 36 meter boven de zeespiegel, is
+  Elysium gekenmerkt door voortreffelijk uitgetekende tuinen waar men kan
+  genieten van het prachtige buitenleven en het authentieke Turkse Mediterraanse
+  leven : gastvrij, discreet, rustig en in eenheid met zijn omgeving.
+datePublished: '2016-08-08T16:45:43.885Z'
+dateModified: '2016-08-08T16:43:23.153Z'
+title: Geïnspireerd door zijn Mediterrane spirit
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-02-17-elysium-residenties.md
-published: true
-url: elysium-residenties/index.html
-_type: Article
+authors: []
+publisher: {}
+via: {}
+starred: false
+_type: Blurb
 
 ---
 ## Geïnspireerd door zijn Mediterrane spirit
