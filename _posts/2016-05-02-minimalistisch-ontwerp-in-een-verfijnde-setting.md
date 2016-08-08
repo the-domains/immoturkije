@@ -1,25 +1,29 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Welkom in een 21e eeuws heiligdom welke geïnspireerd is door de lokale geschiedenis en gelegen is in een vooraanstaande wijk. Het innovatieve ontwerp accentueert het leven buiten met royale privé tuinen en grote dakterrassen en verweeft op feilloze wijze de ruimtes binnen en buiten met elkaar.Nympheum, gelegen naast de ongerepte groene zone van Side en het schitterende Ooststrand, is een uniek residentieel project ontworpen met een uitmuntend niveau in architectonische vormgeving.Wanneer u deel wordt van de Nympheum gemeenschap, zult u genieten van een onderscheidende en unieke lifestyle.'
-datePublished: '2016-05-02T17:46:56.985Z'
-dateModified: '2016-05-02T17:34:31.232Z'
+description: >-
+  Welkom in een 21e eeuws heiligdom welke geïnspireerd is door de lokale
+  geschiedenis en gelegen is in een vooraanstaande wijk. Het innovatieve ontwerp
+  accentueert het leven buiten met royale privé tuinen en grote dakterrassen en
+  verweeft op feilloze wijze de ruimtes binnen en buiten met elkaar. Nympheum,
+  gelegen naast de ongerepte groene zone van Side en het schitterende
+  Ooststrand, is een uniek residentieel project ontworpen met een uitmuntend
+  niveau in architectonische vormgeving. Wanneer u deel wordt van de Nympheum
+  gemeenschap, zult u genieten van een onderscheidende en unieke lifestyle.
+datePublished: '2016-08-08T16:45:04.189Z'
+dateModified: '2016-08-08T16:42:31.222Z'
 title: Minimalistisch ontwerp in een verfijnde setting
 author: []
 sourcePath: _posts/2016-05-02-minimalistisch-ontwerp-in-een-verfijnde-setting.md
-published: true
+via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
-url: minimalistisch-ontwerp-in-een-verfijnde-setting/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/949ce326-a54b-4a12-a6d3-0ebd75640ad0.jpg)
